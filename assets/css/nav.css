@@ -282,9 +282,6 @@ nav h1 {
     .container {
       margin-inline: auto;
     }
-    .nav__social-link{
-      font-size: 2vh;
-    }
   
     .nav {
       height: calc(var(--header-height) + 2rem);
