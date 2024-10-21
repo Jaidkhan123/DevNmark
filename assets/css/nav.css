@@ -318,8 +318,3 @@ nav h1 {
       font-size: 1.1vw;
     }
   }
-  @media screen and (min-width: 900px){
-    .nav__social-link{
-      font-size: 1.8vh;
-    }
-  }
