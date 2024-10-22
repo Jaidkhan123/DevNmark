@@ -73,6 +73,10 @@ a:focus, a:hover {
     z-index: 10;
 }
 
+.nav__social-link{
+  font-size: 1.8vh;
+}
+
 #container a h1{
   color: #fff;
 }
@@ -84,8 +88,18 @@ nav h1 {
   .nav h1 {
     font-size: 1.8vh;
   }
-}
 
+  .nav__social{
+    padding-bottom: 7vh;
+  }
+  
+  i{
+    font-size: 2.7vh;
+  }
+}
+  .nav__social-link{
+    font-size: 1.8vh;
+  }
 
   ul {
     list-style: none;
