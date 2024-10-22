@@ -158,7 +158,9 @@ nav button svg {
     outline: none;
     padding-left: 25px;
     font-weight: 500;
-    color: #666;
+    background-color: #666;
+    font-size: 1.8vh;
+    color: #f2f2f2;
     border-radius: 50px;
 }
 
@@ -170,7 +172,8 @@ nav button svg {
     padding-top: 15px;
     padding-left: 25px;
     font-weight: 540;
-    color: #666;
+    background-color: #666;
+    color: #f2f2f2;
     font-size: 2.3vh;
     border-radius: 20px;
 }
